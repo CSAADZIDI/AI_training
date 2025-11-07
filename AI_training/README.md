@@ -2,7 +2,9 @@
 
 Hello AI world! 
 
-This project presents the curriculum of **my artificial intelligence training program**. This repository contains all the concepts covered, all the languages ​​learned, all the activities completed during this training, and, most importantly, the resources needed to get you started on your incredible journey into the world of AI. It's time to begin the adventure, are you ready to dive in?
+This project presents the curriculum of **my artificial intelligence training program**. This repository contains all the concepts covered, all the languages ​​learned, all the activities completed during this training, and, most importantly, the resources needed to get you started on your incredible journey into the world of AI. 
+
+It's time to begin the adventure, ready? go!
 
 
 
@@ -10,16 +12,11 @@ A gentle introduction with the main programming language used in AI: **Python**:
 
 >github repo: https://github.com/CSAADZIDI/init_Python
 
->resources: 
 
 A project aimed at practicing **object-oriented programming (OOP) in Python**, **teamwork**, and in particular **Git** for version control:
 
 >github repo: https://github.com/CSAADZIDI/wa-tor
 
->resources:
-
-        > Git
-        > OOP in python
 
 
 The essential and necessary libraries for AI are the following: **Numpy** for matrix operations, **Matplotlib** for visualization, and **Pandas** for data manipulation:
@@ -29,8 +26,6 @@ The essential and necessary libraries for AI are the following: **Numpy** for ma
 >github repo: https://github.com/CSAADZIDI/init_matplotlib
 
 >github repo: https://github.com/CSAADZIDI/init_pandas
-
->resources:
 
 
 Okay, we are now ready to discuss machine learning (ML), a subfield of data science.
@@ -42,7 +37,7 @@ exp: Logistic Regression (yes its name is regression but it's not a regression)
 
 >github repo: https://github.com/CSAADZIDI/ML_demo_logistic_regression
 
->github repo:https://github.com/CSAADZIDI/ML_challenge_logistic_regression
+>github repo: https://github.com/CSAADZIDI/ML_challenge_logistic_regression
 
 
 
@@ -113,6 +108,14 @@ A project (web site + django restful api): https://github.com/CSAADZIDI/Django_a
 
 Okay, you're excellent at AI models, you're an expert in exploratory data analysis (EDA) with Python, you're a champion at application development, and you're perfectly proficient in developing and using APIs. Now let's move on to data, data, and more data – it's the heart of AI. So, let's manipulate the data, collect it, extract it, clean it, load it, transform it, and perform other data operations in databases:
 
+
+For mobile application development, start with **Dart** and **Flutter**:
+
+>github repo: https://github.com/CSAADZIDI/init_dart
+>github repo: https://github.com/CSAADZIDI/init_flutter
+
+
+
 **Advanced SQL** for interacting with structured relational databases (joins, and more)
 
 Practice with **PostgreSQL**, an example of an object-oriented database (OODB) that handles more diverse data types than traditional numerical and textual data.
@@ -147,5 +150,7 @@ Thanks to its numerous advantages, cloud computing is now essential for all busi
 
 Discover all the projects I have completed using Azure AI services.
 
-
 >github repo: https://github.com/CSAADZIDI/az_projects
+
+
+
